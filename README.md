@@ -19,7 +19,6 @@ That's why I like to make things that make a difference.
 ## 🚧 Current Projects
 - 🤖 Exploring AI and Machine Learning.
 - 🌐 Crafting modern web and windows applications.
-- 🤖 Recreating a modern slot machine game in C#
 
 ## 👨‍💻 Programming languages
 <a href="#"><img alt="CSS" src="https://camo.githubusercontent.com/53132716f8ed401a79d8c0980b9666b6cd8ce8e7faed1beeb328f821b44850bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
